@@ -14,7 +14,12 @@ class ViewController: UIViewController {
 
     var count = 0
 
-    @IBAction func buttonPressed(_ sender: AnyObject) {
+    @IBAction func buttonReset(_ sender: AnyObject) {
+        count = 0
+        countLabel.text = String(count)
+    }
+
+    @IBAction func buttonTap(_ sender: AnyObject) {
         count = count + 1
         countLabel.text = String(count)
     }
