@@ -6,6 +6,12 @@ Hi, I'm Tommy. This project is to learn Swift 3 through finishing all 40 Sam's s
 
 ## Projects
 
+Project 03 - SWIFT IAD
+
+![Project 03 - SWIFT IAD](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_03.png)
+
+-----
+
 Project 02 - TAP OR HOLD COUNTER
 
 ![Project 02 - TAP OR HOLD COUNTER](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_02.gif)
