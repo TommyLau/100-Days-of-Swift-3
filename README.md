@@ -6,6 +6,12 @@ Hi, I'm Tommy. This project is to learn Swift 3 through finishing all 40 Sam's s
 
 ## Projects
 
+Project 04 - TIP CALCULATOR
+
+![Project 04 - TIP CALCULATOR](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_04.gif)
+
+-----
+
 Project 03 - SWIFT IAD
 
 ![Project 03 - SWIFT IAD](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_03.png)
