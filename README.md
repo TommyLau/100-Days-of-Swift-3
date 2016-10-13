@@ -6,6 +6,12 @@ Hi, I'm Tommy. This project is to learn Swift 3 through finishing all 40 Sam's s
 
 ## Projects
 
+Project 08 - SWIPE TO DISMISS KEYBOARD
+
+![Project 08 - SWIPE TO DISMISS KEYBOARD](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_08.gif)
+
+-----
+
 Project 07 - PASSING DATA TO ANOTHER VIEW
 
 ![Project 07 - PASSING DATA TO ANOTHER VIEW](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_07.gif)
