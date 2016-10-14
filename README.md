@@ -6,6 +6,12 @@ Hi, I'm Tommy. This project is to learn Swift 3 through finishing all 40 Sam's s
 
 ## Projects
 
+Project 10 - PULL TO REFRESH TABLE VIEW
+
+![Project 10 - PULL TO REFRESH TABLE VIEW](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_10.gif)
+
+-----
+
 Project 09 - ADD PHOTO FROM CAMERA ROLL
 
 ![Project 09 - ADD PHOTO FROM CAMERA ROLL](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_09.gif)
