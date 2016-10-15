@@ -6,6 +6,12 @@ Hi, I'm Tommy. This project is to learn Swift 3 through finishing all 40 Sam's s
 
 ## Projects
 
+Project 13 - STICKY SECTION HEADERS
+
+![Project 13 - STICKY SECTION HEADERS](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_13.gif)
+
+-----
+
 Project 12 - ADD NEW ITEM
 
 ![Project 12 - ADD NEW ITEM](https://raw.githubusercontent.com/TommyLau/100-Days-of-Swift-3/master/images/project_12.gif)
